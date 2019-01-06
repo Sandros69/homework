@@ -1,6 +1,3 @@
-
-import Adapter.MemoryStorage;
-import Adapter.SortingMemoryAdapter;
 import Template.MachineWork;
 import Template.PrintingMachineWork;
 import Template.SortingMachineWork;
